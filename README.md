@@ -9,5 +9,5 @@ This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments
 
 
 ## solution links:
-- [Module 2 Solution](https://hharshith.github.io/coursera-test/site/)
+-[Module 2 Solution](https://hharshith.github.io/coursera-test/site/)
 
