@@ -11,4 +11,4 @@ This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments
 ## solution links:
 - [Module 2 solution](https://hharshith.github.io/coursera-test/site/)
 - [Module 3 solution](https://hharshith.github.io/coursera-test/module3/)
-- [Module 4 solution]()
+- [Module 4 solution](https://hharshith.github.io/coursera-test/module-4-assignment/)
